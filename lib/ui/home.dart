@@ -19,7 +19,6 @@ class Home extends StatelessWidget {
       ),
       home: Scaffold(
         drawer: Drawer(
-          backgroundColor: const Color.fromARGB(255, 8, 15, 19),
           child: SafeArea(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -28,7 +27,7 @@ class Home extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.all(16),
                   child: Text(
-                    "Hala",
+                    "Welcome Hala",
                     style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
                   ),
                 ),
@@ -75,7 +74,14 @@ class Home extends StatelessWidget {
                           onPressed: () {
                             Scaffold.of(context).openDrawer();
                           },
-                          icon: Icon(Icons.menu_sharp),
+                          icon: Container(
+                            padding: EdgeInsets.all(8),
+                            decoration: BoxDecoration(
+                              color: Color.fromARGB(255, 27, 53, 65),
+                              shape: BoxShape.circle,
+                            ),
+                            child: Icon(Icons.menu_sharp, size: 28),
+                          ),
                         );
                       },
                     ),
