@@ -27,7 +27,11 @@ A simple and clean UI for a restaurant/food delivery app built with Flutter.
 
 
 
-https://github.com/user-attachments/assets/c1c0f779-e7fb-4ca9-9fac-e9e429819ca5
+
+
+https://github.com/user-attachments/assets/261503aa-5a75-4e27-a5e9-c2168b186a1f
+
+
 
 
 
