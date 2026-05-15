@@ -1,17 +1,36 @@
-# restaurant_ui
+#  Restaurant Flutter UI
 
-A new Flutter project.
+A simple and clean UI for a restaurant/food delivery app built with Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- Custom AppBar with drawer menu
+- Horizontal categories list
+- Restaurant cards with images
+- Smooth scrollable layout
+- Dark themed UI
+- Organized code with a clean structure for better readability, scalability, and maintainability
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- Flutter
+- Dart
+
+---
+
+## 🎨 UI Preview
+
+
+
+
+https://github.com/user-attachments/assets/c1c0f779-e7fb-4ca9-9fac-e9e429819ca5
+
+
+
+
+
+
